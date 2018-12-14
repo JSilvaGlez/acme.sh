@@ -2375,7 +2375,7 @@ _initpath() {
   fi
 
   if [ -z "$ACME_DIR" ]; then
-    ACME_DIR="/home/.acme"
+    ACME_DIR="/var/www/.acme"
   fi
 
   if [ -z "$APACHE_CONF_BACKUP_DIR" ]; then
