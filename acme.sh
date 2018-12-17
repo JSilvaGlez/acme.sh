@@ -1,4 +1,5 @@
 #!/usr/bin/env sh
+set x
 
 VER=2.8.0
 
