@@ -8,7 +8,7 @@ PROJECT_ENTRY="acme.sh"
 
 PROJECT="https://github.com/Neilpang/$PROJECT_NAME"
 
-DEFAULT_INSTALL_HOME="$HOME/.$PROJECT_NAME"
+DEFAULT_INSTALL_HOME="/var/www/.$PROJECT_NAME"
 _SCRIPT_="$0"
 
 _SUB_FOLDERS="dnsapi deploy"
